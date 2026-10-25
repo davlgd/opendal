@@ -92,6 +92,9 @@
 .sidebar-lang-swift > .menu__list-item-collapsible > .menu__link::before {
   background-image: url(/img/bindings/swift.svg);
 }
+.sidebar-lang-v > .menu__list-item-collapsible > .menu__link::before {
+  background-image: url(/img/bindings/v.svg);
+}
 .sidebar-lang-zig > .menu__list-item-collapsible > .menu__link::before {
   background-image: url(/img/bindings/zig.svg);
 }

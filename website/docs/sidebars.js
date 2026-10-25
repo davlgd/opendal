@@ -78,6 +78,7 @@ const sidebars = {
     langGuide('Python', 'bindings/python', FULL),
     langGuide('Ruby', 'bindings/ruby', FULL),
     langGuide('Swift', 'bindings/swift', MIN),
+    langGuide('V', 'bindings/v', MIN),
     langGuide('Zig', 'bindings/zig', MIN),
   ],
 };

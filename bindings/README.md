@@ -23,6 +23,7 @@ This folder contains the bindings for OpenDAL. Currently, we support the followi
 * [PHP](php/README.md)
 * [Ruby](ruby/README.md)
 * [Swift](swift/README.md)
+* [V](v/README.md)
 * [Zig](zig/README.md)
 
 ## Versioning

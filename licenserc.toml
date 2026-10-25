@@ -82,3 +82,8 @@ suffix = ""
 extensions = ["go"]
 style_out = "doubleslash"
 styles_in = ["doubleslash", "slashstar"]
+
+[[rules]]
+extensions = ["v"]
+filenames = ["v.mod"]
+style_out = "doubleslash"

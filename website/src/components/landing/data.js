@@ -396,6 +396,7 @@ export const bindings = [
   { name: "Lua", icon: "/img/bindings/lua.svg", doc: "/docs/bindings/lua" },
   { name: "Dart", icon: "/img/bindings/dart.svg", doc: "/docs/bindings/dart" },
   { name: "D", icon: "/img/bindings/d.svg", doc: "/docs/bindings/d" },
+  { name: "V", icon: "/img/bindings/v.svg", doc: "/docs/bindings/v" },
   { name: "Zig", icon: "/img/bindings/zig.svg", doc: "/docs/bindings/zig" },
 ];
 
